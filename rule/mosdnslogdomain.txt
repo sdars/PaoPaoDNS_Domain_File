@@ -22,7 +22,9 @@ az3-upload.ksapisrv.com
 conn-service-cn-05.allawntech.com
 copilot.microsoft.com
 ctldl.windowsupdate.com
+dc-dragate-cn.heytapmobi.com
 dldir1v6.qq.com
+dns.weixin.qq.com.cn
 ecs.office.com
 edge.microsoft.com
 extshort.weixin.qq.com
@@ -32,6 +34,7 @@ kuaishou.com
 kv601.prod.do.dsp.mp.microsoft.com
 login.microsoftonline.com
 long.weixin.qq.com
+magzineimg.nearme.com.cn
 m.baidu.com
 mdp-appconf-cn.heytapdownload.com
 minorshort.weixin.qq.com
@@ -42,6 +45,7 @@ mp.weixin.qq.com
 net-detect.v4v6.kwd.inkuai.com
 obus-cn.dc.heytapmobi.com
 obus-dc20058-cn.heytapmobi.com
+obus-dc20157-cn.heytapmobi.com
 obus-dctech-cn.heytapmobi.com
 push3.gifshow.com
 res.wx.qq.com

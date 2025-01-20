@@ -36,6 +36,7 @@ capis-2.didapinche.com
 capis-3.didapinche.com
 capis-4.didapinche.com
 capis.didapinche.com
+ccflbs.m.jd.com
 cc.map.qq.com
 cdn-static-devbit.csdn.net
 cloudauth.aliyuncs.com
@@ -83,6 +84,7 @@ gw.xiaocantech.com
 h5.360buyimg.com
 h5speed.m.jd.com
 h5static.m.jd.com
+h-adashx.ut.cainiao.com
 hello-location-based-services.hellobike.com
 hm.baidu.com
 hscdn.flv.wxqcloud.qq.com
@@ -142,6 +144,7 @@ overseactrl.map.qq.com
 passport.bilibili.com
 paydns.wechatpay.cn
 pay.weixin.qq.com
+perf.m.jd.com
 pluto.didapinche.com
 prewxacode.wxqcloud.qq.com.cn
 pull-m1.wxlivecdn.com
@@ -155,6 +158,7 @@ s.1rtb.net
 sdk.e.qq.com
 sdkgw.map.qq.com
 settings-win.data.microsoft.com
+sgm-m.jd.com
 snsrb.video.qq.com
 snssvppica.video.qq.com
 snssvppicb.video.qq.com

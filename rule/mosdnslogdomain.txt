@@ -1,2 +1,14 @@
 
+aad.cs.dds.microsoft.com
+array512.prod.do.dsp.mp.microsoft.com
+copilot.microsoft.com
+ctldl.windowsupdate.com
+edge.microsoft.com
+graph.microsoft.com
+kv601.prod.do.dsp.mp.microsoft.com
+login.microsoftonline.com
+mojie.co
+rot-dispatch-shcp-link.ztehome.com.cn
+settings-win.data.microsoft.com
+updates.ghub.logitechg.com.cn
 www.zte.com.cn

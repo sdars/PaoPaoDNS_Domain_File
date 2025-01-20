@@ -1,8 +1,16 @@
 
+acs.m.taobao.com
+adashx.ut.dingtalk.com
+aloc-gnss-eph.amap.com
 conn-service-cn-05.allawntech.com
+ctldl.windowsupdate.com
+ecs.office.com
+file.dingtalk.com
 findermp.video.qq.com
 h-adashx.ut.cainiao.com
+hpmweb.alipay.com
 i2.hdslb.com
+mdap.alipay.com
 mmcomm.qpic.cn
 mojie.co
 settings-win.data.microsoft.com

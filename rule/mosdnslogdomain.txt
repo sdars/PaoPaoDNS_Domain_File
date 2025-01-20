@@ -5,6 +5,7 @@ aloc-gnss-eph.amap.com
 applog.uc.cn
 conn-service-cn-05.allawntech.com
 ctldl.windowsupdate.com
+dldir1v6.qq.com
 ecs.office.com
 file.dingtalk.com
 findermp.video.qq.com
@@ -14,6 +15,7 @@ i2.hdslb.com
 mdap.alipay.com
 mmcomm.qpic.cn
 mojie.co
+rot-dispatch-sh.ztehome.com.cn
 settings-win.data.microsoft.com
 updates.ghub.logitechg.com.cn
 upos-sz-mirrorcoso1.bilivideo.com

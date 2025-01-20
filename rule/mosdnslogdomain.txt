@@ -126,6 +126,7 @@ pull-m1.wxlivecdn.com
 qzs.gdtimg.com
 rapi.hellobike.com
 res.wx.qq.com
+rot-dispatch-sh.ztehome.com.cn
 rpt.gdt.qq.com
 s.1rtb.net
 sdk.e.qq.com
@@ -137,6 +138,8 @@ static.hdslb.com
 static.koocdn.com
 statistic.live.126.net
 study.koolearn.com
+szextshort.weixin.qq.com
+szminorshort.weixin.qq.com
 szshort.mixpay.wechatpay.cn
 taxiapi.hellobike.com
 tbsrecovery.imtt.qq.com
@@ -168,5 +171,6 @@ www.bilibili.com
 www.google.cn
 www.koolearn.com
 www.zte.com.cn
+wxapp.tc.qq.com
 wx.tenpay.com
 xxyx-client-api.xiaoxiaoyouxuan.com

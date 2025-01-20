@@ -5,6 +5,8 @@ cdn.weread.qq.com
 conn-service-cn-05.allawntech.com
 csstools.chinaz.com
 csycdn.flv.wxqcloud.qq.com
+extshort.weixin.qq.com
+game.weixin.qq.com
 gap.weread.qq.com
 hm.baidu.com
 hscdn.flv.wxqcloud.qq.com
@@ -13,6 +15,7 @@ i.weread.qq.com
 minorshort.weixin.qq.com
 mmbiz.qpic.cn
 mojie.co
+mp.weixin.qq.com
 my.chinaz.com
 oss.mail.qq.com
 oss.weread.qq.com
@@ -34,5 +37,8 @@ voipfinderrdsliveplay.wxqcloud.qq.com
 voipfinderspamliveplay.wxqcloud.qq.com
 weread.qq.com
 wfqqreader-1252317822.image.myqcloud.com
+www.3d66.com
 www.baidu.com
+www.google.cn
+www.zte.com.cn
 wx.tenpay.com

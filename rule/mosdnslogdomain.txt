@@ -1,3 +1,10 @@
 
+conn-service-cn-05.allawntech.com
 i2.hdslb.com
+lf3-cdn-tos.bytecdntp.com
+mall.bilibili.com
+mojie.co
+updates.ghub.logitechg.com.cn
+upos-sz-estgcos.bilivideo.com
+www.google.cn
 www.zte.com.cn

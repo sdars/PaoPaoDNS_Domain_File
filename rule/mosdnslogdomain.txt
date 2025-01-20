@@ -1,6 +1,7 @@
 
 aliycdn.flv.wxqcloud.qq.com
 analytics.map.qq.com
+api.bilibili.com
 apikey.map.qq.com
 blog.csdn.net
 cc.map.qq.com
@@ -15,10 +16,13 @@ gap.weread.qq.com
 hm.baidu.com
 hscdn.flv.wxqcloud.qq.com
 hw.flv.wxqcloud.qq.com
+i0.hdslb.com
+i2.hdslb.com
 i.weread.qq.com
 lbs6.map.qq.com
 lbs.netease.im
 lf-cdn-tos.bytescm.com
+m.bilibili.com
 mi.gdt.qq.com
 minorshort.weixin.qq.com
 mmbiz.qpic.cn
@@ -29,6 +33,7 @@ nosup-hz1.127.net
 oss.mail.qq.com
 oss.weread.qq.com
 overseactrl.map.qq.com
+passport.bilibili.com
 pay.weixin.qq.com
 prewxacode.wxqcloud.qq.com.cn
 pull-m1.wxlivecdn.com
@@ -39,6 +44,8 @@ rpt.gdt.qq.com
 sdk.e.qq.com
 sdkgw.map.qq.com
 settings-win.data.microsoft.com
+space.bilibili.com
+static.hdslb.com
 szminorshort.weixin.qq.com
 time.xtracloud.net
 tool.chinaz.com
@@ -58,6 +65,7 @@ weread.qq.com
 wfqqreader-1252317822.image.myqcloud.com
 www.3d66.com
 www.baidu.com
+www.bilibili.com
 www.google.cn
 www.zte.com.cn
 wx.tenpay.com

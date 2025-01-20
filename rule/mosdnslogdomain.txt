@@ -2,6 +2,7 @@
 acs.m.taobao.com
 adashx.ut.dingtalk.com
 aloc-gnss-eph.amap.com
+applog.uc.cn
 conn-service-cn-05.allawntech.com
 ctldl.windowsupdate.com
 ecs.office.com

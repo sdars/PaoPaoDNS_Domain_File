@@ -1,3 +1,5 @@
 
 mojie.co
+settings-win.data.microsoft.com
+updates.ghub.logitechg.com.cn
 www.zte.com.cn

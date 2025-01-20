@@ -46,6 +46,7 @@ daxueui-oss.koocdn.com
 dldir1v6.qq.com
 dualstack-a.apilocate.amap.com
 ecotaxiapi.hellobike.com
+ecs.office.com
 fingerprint-upload.hellobike.com
 flying.koolearn.com
 game.weixin.qq.com
@@ -77,6 +78,7 @@ mgw.mpaas.cn-hangzhou.aliyuncs.com
 mi.gdt.qq.com
 m-kaoyan.koolearn.com
 m.koolearn.com
+mmbiz.qpic.cn
 mobi.koolearn.com
 mobileconfig-gateway.hellobike.com
 mojie.co
@@ -111,6 +113,7 @@ static.koocdn.com
 statistic.live.126.net
 study.koolearn.com
 taxiapi.hellobike.com
+tbsrecovery.imtt.qq.com
 time.xtracloud.net
 tong.koolearn.com
 tool.chinaz.com

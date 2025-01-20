@@ -16,6 +16,7 @@ i2.hdslb.com
 mdap.alipay.com
 mmcomm.qpic.cn
 mojie.co
+resolver.dingtalk.com
 rot-dispatch-sh.ztehome.com.cn
 settings-win.data.microsoft.com
 snssvppica.video.qq.com

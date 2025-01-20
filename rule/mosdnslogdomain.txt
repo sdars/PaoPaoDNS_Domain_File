@@ -1,5 +1,12 @@
 
+conn-service-cn-05.allawntech.com
+findermp.video.qq.com
+h-adashx.ut.cainiao.com
+i2.hdslb.com
+mmcomm.qpic.cn
 mojie.co
 settings-win.data.microsoft.com
 updates.ghub.logitechg.com.cn
+www.google.cn
 www.zte.com.cn
+wx.qlogo.cn

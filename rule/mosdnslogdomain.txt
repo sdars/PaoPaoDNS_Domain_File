@@ -14,6 +14,7 @@ broadcast.chat.bilibili.com
 conn-service-cn-05.allawntech.com
 cp601.prod.do.dsp.mp.microsoft.com
 ctldl.windowsupdate.com
+dcg.microsoft.com
 dldir1v6.qq.com
 download.windowsupdate.com
 ecs.office.com
@@ -45,6 +46,8 @@ snssvppica.video.qq.com
 snssvppicb.video.qq.com
 snssvppicc.video.qq.com
 snssvppice.video.qq.com
+support.weixin.qq.com
+szextshort.weixin.qq.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 updates.ghub.logitechg.com.cn
 upos-sz-mirrorcos.bilivideo.com
@@ -52,4 +55,5 @@ upos-sz-mirrorcoso1.bilivideo.com
 weatherapi.market.xiaomi.com
 www.google.cn
 www.zte.com.cn
+wxapp.tc.qq.com
 wx.qlogo.cn

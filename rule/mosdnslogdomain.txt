@@ -52,6 +52,7 @@ ecotaxiapi.hellobike.com
 ecs.office.com
 fingerprint-upload.hellobike.com
 flying.koolearn.com
+g.alicdn.com
 game.weixin.qq.com
 gap.weread.qq.com
 g.csdnimg.cn
@@ -60,6 +61,7 @@ goods.koolearn.com
 guid.tpns.sh.tencent.com
 guonei-cos.koocdn.com
 gw.alicdn.com
+gw.alipayobjects.com
 gw.xiaocantech.com
 hello-location-based-services.hellobike.com
 hm.baidu.com

@@ -1,6 +1,7 @@
 
 abapi.hellobike.com
 access1.tpns.sh.tencent.com
+acs.m.taobao.com
 aliycdn.flv.wxqcloud.qq.com
 analytics.map.qq.com
 ap1.qiyukf.com
@@ -20,6 +21,7 @@ apmgw.hellobike.com
 applog.uc.cn
 appstore-gw-sh.ztehome.com.cn
 blog.csdn.net
+b.ujing.com.cn
 buryingapi.xiaocantech.com
 c3.gdt.qq.com
 capis-1.didapinche.com
@@ -57,6 +59,7 @@ gnitem.koolearn.com
 goods.koolearn.com
 guid.tpns.sh.tencent.com
 guonei-cos.koocdn.com
+gw.alicdn.com
 gw.xiaocantech.com
 hello-location-based-services.hellobike.com
 hm.baidu.com
@@ -66,6 +69,7 @@ i0.hdslb.com
 i2.hdslb.com
 i.koolearn.com
 images.koolearn.com
+img.alicdn.com
 ip.hellobike.com
 item.koolearn.com
 lbs6.map.qq.com
@@ -75,13 +79,16 @@ license.vod2.myqcloud.com
 link-ga-hz-azure.yunxinfw.com
 log2.cmpassport.com
 m.bilibili.com
+mdap.alipay.com
 mgw.mpaas.cn-hangzhou.aliyuncs.com
+m.hellobike.com
 mi.gdt.qq.com
 m-kaoyan.koolearn.com
 m.koolearn.com
 mmbiz.qpic.cn
 mobi.koolearn.com
 mobileconfig-gateway.hellobike.com
+mobilegw.alipay.com
 mojie.co
 mpaasmss.hellobike.com
 mp.weixin.qq.com

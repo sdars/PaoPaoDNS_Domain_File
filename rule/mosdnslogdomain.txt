@@ -2,7 +2,9 @@
 abapi.hellobike.com
 access1.tpns.sh.tencent.com
 acs.m.taobao.com
+adashx.ut.cainiao.com
 aliycdn.flv.wxqcloud.qq.com
+amdc-sibling.alipay.com.cn
 analytics.map.qq.com
 ap1.qiyukf.com
 api.bilibili.com
@@ -20,6 +22,7 @@ api-p4.yksdks.com
 apmgw.hellobike.com
 applog.uc.cn
 appstore-gw-sh.ztehome.com.cn
+at.alicdn.com
 blog.csdn.net
 b.ujing.com.cn
 buryingapi.xiaocantech.com
@@ -43,10 +46,12 @@ csdnimg.cn
 csstools.chinaz.com
 csycdn.flv.wxqcloud.qq.com
 ctldl.windowsupdate.com
+d.alicdn.com
 daxue-cos.koocdn.com
 daxueui-cos.koocdn.com
 daxueui-oss.koocdn.com
 dldir1v6.qq.com
+dtmall-tel.alicdn.com
 dualstack-a.apilocate.amap.com
 ecotaxiapi.hellobike.com
 ecs.office.com
@@ -94,10 +99,12 @@ mobilegw.alipay.com
 mojie.co
 mpaasmss.hellobike.com
 mp.weixin.qq.com
+msgacs.m.taobao.com
 mum.alibabachengdun.com
 my.chinaz.com
 nosup-hz1.127.net
 nvs.im.tencent.cn
+o.alicdn.com
 oa-teacher-cos.koocdn.com
 omc.koolearn.com
 oss.weread.qq.com
@@ -127,6 +134,7 @@ tbsrecovery.imtt.qq.com
 time.xtracloud.net
 tong.koolearn.com
 tool.chinaz.com
+umdc.taobao.com
 uni.didapinche.com
 updates.ghub.logitechg.com.cn
 v2mi.gdt.qq.com

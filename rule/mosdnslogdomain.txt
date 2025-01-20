@@ -3,13 +3,17 @@ aliycdn.flv.wxqcloud.qq.com
 blog.csdn.net
 cdn.weread.qq.com
 conn-service-cn-05.allawntech.com
+csstools.chinaz.com
 csycdn.flv.wxqcloud.qq.com
 gap.weread.qq.com
+hm.baidu.com
 hscdn.flv.wxqcloud.qq.com
 hw.flv.wxqcloud.qq.com
 i.weread.qq.com
 minorshort.weixin.qq.com
 mmbiz.qpic.cn
+mojie.co
+my.chinaz.com
 oss.mail.qq.com
 oss.weread.qq.com
 pay.weixin.qq.com

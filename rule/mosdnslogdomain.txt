@@ -1,4 +1,5 @@
 
+aad.cs.dds.microsoft.com
 acs.m.taobao.com
 adashx.ut.dingtalk.com
 aloc-gnss-eph.amap.com
@@ -8,6 +9,7 @@ api.vc.bilibili.com
 app.bilibili.com
 applog.uc.cn
 appstore-gw-sh.ztehome.com.cn
+array512.prod.do.dsp.mp.microsoft.com
 broadcast.chat.bilibili.com
 conn-service-cn-05.allawntech.com
 cp601.prod.do.dsp.mp.microsoft.com
@@ -21,17 +23,20 @@ fe3cr.delivery.mp.microsoft.com
 file.dingtalk.com
 findermp.video.qq.com
 geo.prod.do.dsp.mp.microsoft.com
+graph.microsoft.com
 h-adashx.ut.cainiao.com
 hpmweb.alipay.com
 i0.hdslb.com
 i2.hdslb.com
 kv601.prod.do.dsp.mp.microsoft.com
 line3-h5-mobile-api.biligame.com
+login.microsoftonline.com
 long.weixin.qq.com
 mdap.alipay.com
 minorshort.weixin.qq.com
 mmcomm.qpic.cn
 mojie.co
+my.microsoftpersonalcontent.com
 passport.bilibili.com
 resolver.dingtalk.com
 rot-dispatch-sh.ztehome.com.cn

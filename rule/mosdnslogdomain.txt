@@ -1,6 +1,3 @@
 
-conn-service-cn-05.allawntech.com
-ecs.office.com
-h-adashx.ut.cainiao.com
-www.google.cn
+mojie.co
 www.zte.com.cn

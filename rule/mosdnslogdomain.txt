@@ -3,6 +3,7 @@ abapi.hellobike.com
 access1.tpns.sh.tencent.com
 acs.m.taobao.com
 adashx.ut.cainiao.com
+ald-lamp.alicdn.com
 aliycdn.flv.wxqcloud.qq.com
 amdc-sibling.alipay.com.cn
 analytics.map.qq.com
@@ -61,8 +62,13 @@ g.alicdn.com
 game.weixin.qq.com
 gap.weread.qq.com
 g.csdnimg.cn
+gju2.alicdn.com
+gju3.alicdn.com
+gju4.alicdn.com
+gjusp.alicdn.com
 gnitem.koolearn.com
 goods.koolearn.com
+guide-acs.m.taobao.com
 guid.tpns.sh.tencent.com
 guonei-cos.koocdn.com
 gw.alicdn.com
@@ -82,6 +88,7 @@ item.koolearn.com
 lbs6.map.qq.com
 lbs.netease.im
 lf-cdn-tos.bytescm.com
+lhp.map.qq.com
 license.vod2.myqcloud.com
 link-ga-hz-azure.yunxinfw.com
 log2.cmpassport.com
@@ -111,6 +118,7 @@ oss.weread.qq.com
 oth.str.mdt.qq.com
 overseactrl.map.qq.com
 passport.bilibili.com
+paydns.wechatpay.cn
 pay.weixin.qq.com
 pluto.didapinche.com
 prewxacode.wxqcloud.qq.com.cn
@@ -129,6 +137,7 @@ static.hdslb.com
 static.koocdn.com
 statistic.live.126.net
 study.koolearn.com
+szshort.mixpay.wechatpay.cn
 taxiapi.hellobike.com
 tbsrecovery.imtt.qq.com
 time.xtracloud.net

@@ -56,6 +56,7 @@ lbs6.map.qq.com
 lbs.netease.im
 lf-cdn-tos.bytescm.com
 license.vod2.myqcloud.com
+link-ga-hz-azure.yunxinfw.com
 m.bilibili.com
 mi.gdt.qq.com
 m-kaoyan.koolearn.com
@@ -68,6 +69,7 @@ mum.alibabachengdun.com
 my.chinaz.com
 nosup-hz1.127.net
 oa-teacher-cos.koocdn.com
+omc.koolearn.com
 oss.weread.qq.com
 oth.str.mdt.qq.com
 overseactrl.map.qq.com
@@ -110,6 +112,7 @@ weatherapi.market.xiaomi.com
 www.3d66.com
 www.bilibili.com
 www.google.cn
+www.koolearn.com
 www.zte.com.cn
 wx.tenpay.com
 xxyx-client-api.xiaoxiaoyouxuan.com

@@ -1,5 +1,1 @@
 
-appstore-gw-sh.ztehome.com.cn
-conn-service-cn-05.allawntech.com
-www.google.cn
-www.zte.com.cn

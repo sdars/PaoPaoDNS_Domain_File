@@ -3,6 +3,7 @@ acs.m.taobao.com
 adashx.ut.dingtalk.com
 aloc-gnss-eph.amap.com
 applog.uc.cn
+appstore-gw-sh.ztehome.com.cn
 conn-service-cn-05.allawntech.com
 ctldl.windowsupdate.com
 dldir1v6.qq.com
@@ -17,6 +18,10 @@ mmcomm.qpic.cn
 mojie.co
 rot-dispatch-sh.ztehome.com.cn
 settings-win.data.microsoft.com
+snssvppica.video.qq.com
+snssvppicb.video.qq.com
+snssvppicc.video.qq.com
+snssvppice.video.qq.com
 updates.ghub.logitechg.com.cn
 upos-sz-mirrorcoso1.bilivideo.com
 www.google.cn

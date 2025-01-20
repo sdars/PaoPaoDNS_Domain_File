@@ -1,8 +1,10 @@
 
 aad.cs.dds.microsoft.com
+appstore-gw-sh.ztehome.com.cn
 array512.prod.do.dsp.mp.microsoft.com
 copilot.microsoft.com
 ctldl.windowsupdate.com
+ecs.office.com
 edge.microsoft.com
 graph.microsoft.com
 kv601.prod.do.dsp.mp.microsoft.com

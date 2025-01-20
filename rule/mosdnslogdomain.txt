@@ -24,6 +24,7 @@ buryingapi.xiaocantech.com
 c3.gdt.qq.com
 capis-1.didapinche.com
 capis-2.didapinche.com
+capis-3.didapinche.com
 capis-4.didapinche.com
 capis.didapinche.com
 cc.map.qq.com

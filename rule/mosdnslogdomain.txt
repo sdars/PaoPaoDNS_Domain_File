@@ -40,6 +40,7 @@ mojie.co
 my.microsoftpersonalcontent.com
 passport.bilibili.com
 resolver.dingtalk.com
+rot-dispatch-shcp-link.ztehome.com.cn
 rot-dispatch-sh.ztehome.com.cn
 settings-win.data.microsoft.com
 snssvppica.video.qq.com

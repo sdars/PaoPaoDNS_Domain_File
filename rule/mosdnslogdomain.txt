@@ -1,9 +1,11 @@
 
 ecs.office.com
 edge.microsoft.com
+fe3cr.delivery.mp.microsoft.com
 ispip.clang.cn
 minorshort.weixin.qq.com
 my.microsoftpersonalcontent.com
+slscr.update.microsoft.com
 szextshort.weixin.qq.com
 weatherapi.market.xiaomi.com
 www.google.cn

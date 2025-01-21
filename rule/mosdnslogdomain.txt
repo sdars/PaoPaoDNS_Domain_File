@@ -1,12 +1,22 @@
 
+1D.tlu.dl.delivery.mp.microsoft.com
+assets.msn.cn
+cdn.storeedgefd.dsx.mp.microsoft.com
 copilot.microsoft.com
+cp601.prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
 ecs.office.com
 edge.microsoft.com
 fe3cr.delivery.mp.microsoft.com
+geo.prod.do.dsp.mp.microsoft.com
 ispip.clang.cn
 minorshort.weixin.qq.com
 my.microsoftpersonalcontent.com
+s.cn.bing.net
 slscr.update.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
 szextshort.weixin.qq.com
 weatherapi.market.xiaomi.com
 www.google.cn
+www.msn.cn

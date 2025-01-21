@@ -1,2 +1,9 @@
 
+ecs.office.com
+edge.microsoft.com
 ispip.clang.cn
+minorshort.weixin.qq.com
+my.microsoftpersonalcontent.com
+szextshort.weixin.qq.com
+weatherapi.market.xiaomi.com
+www.google.cn

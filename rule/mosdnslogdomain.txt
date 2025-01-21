@@ -12,6 +12,7 @@ extshort.weixin.qq.com
 fe3cr.delivery.mp.microsoft.com
 geo.prod.do.dsp.mp.microsoft.com
 ispip.clang.cn
+long.weixin.qq.com
 minorshort.weixin.qq.com
 my.microsoftpersonalcontent.com
 s.cn.bing.net

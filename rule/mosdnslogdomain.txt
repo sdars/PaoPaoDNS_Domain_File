@@ -94,6 +94,8 @@ api.live.bilibili.com
 app.bilibili.com
 aps.amap.com
 az3-api.ksapisrv.com
+bimp.hdslb.com
+boss.hdslb.com
 club.bilibili.com
 conn-servi2025-01-21T09
 conn-service-cn-05.allawntech.com
@@ -117,6 +119,8 @@ snssvppica.video.qq.com
 snssvppicb.video.qq.com
 snssvppicc.video.qq.com
 time.xtracloud.net
+upos-sz-estghw.bilivideo.com
 upos-sz-estgoss.bilivideo.com
+upos-sz-mirror08c.bilivideo.com
 www.google.cn
 www.zte.com.cn

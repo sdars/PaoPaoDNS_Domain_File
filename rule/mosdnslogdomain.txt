@@ -89,6 +89,7 @@
 0-13-9-app.us3.20tadoghq.usage-comdb2cessbeta-intakes.us3.20tadoghq.comprocndmspoping.20tadoghq.lisa-20tadoghq-stitchfix.20tadoghq.consul.agent.us3.datadoghq.com
 0-13-9-app.us3.20tadoghq.usage-comdb2cessbeta-intakes.us3.20tadoghq.customer-agent.20tadoghq.lisa-20tadoghq-comprocessdiana.20tadoghq.consul.agent.us3.datadoghq.com
 0-13-9-app.us3.20tadoghq.usage-comdb2cessbeta-intakes.us3.20tadoghq.customer-agent.20tadoghq.lisa-20tadoghq-stitchfix.20tadoghq.consul.agent.us3.datadoghq.com
+aliycdn.flv.wxqcloud.qq.com
 api.kuaishouzt.com
 api.live.bilibili.com
 app.bilibili.com
@@ -110,6 +111,8 @@ dldir1v6.qq.com
 ecs.office.com
 edge.microsoft.com
 graph.microsoft.com
+hscdn.flv.wxqcloud.qq.com
+hw.flv.wxqcloud.qq.com
 i2.hdslb.com
 img-push.heytapimage.com
 img-s.msn.cn
@@ -126,6 +129,7 @@ msedge.api.cdp.microsoft.com
 msedge.b.tlu.dl.delivery.mp.microsoft.com
 my.microsoftpersonalcontent.com
 p2.a.kwimgs.com
+pull-m1.wxlivecdn.com
 s.cn.bing.net
 settings-win.data.microsoft.com
 show.bilibili.com
@@ -140,6 +144,16 @@ ts2.cn.mm.bing.net
 upos-sz-estghw.bilivideo.com
 upos-sz-estgoss.bilivideo.com
 upos-sz-mirror08c.bilivideo.com
+voipfindereventsliveplay.wxqcloud.qq.com
+voipfinderliveplay1.wxqcloud.qq.com
+voipfinderliveplaythirdtest.wxqcloud.qq.com
+voipfinderliveplaythird.wxqcloud.qq.com
+voipfinderliveplay.wxqcloud.qq.com
+voipfinderrdsliveplay1.wxqcloud.qq.com
+voipfinderrdsliveplay2.wxqcloud.qq.com
+voipfinderrdsliveplay3.wxqcloud.qq.com
+voipfinderrdsliveplay.wxqcloud.qq.com
+voipfinderspamliveplay.wxqcloud.qq.com
 www.google.cn
 www.msn.cn
 www.zte.com.cn

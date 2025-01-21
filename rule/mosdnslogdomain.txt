@@ -1,4 +1,5 @@
 
+copilot.microsoft.com
 ecs.office.com
 edge.microsoft.com
 fe3cr.delivery.mp.microsoft.com

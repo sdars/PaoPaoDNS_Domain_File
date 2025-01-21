@@ -1,6 +1,7 @@
 
 1D.tlu.dl.delivery.mp.microsoft.com
 assets.msn.cn
+broadcast.chat.bilibili.com
 cdn.storeedgefd.dsx.mp.microsoft.com
 copilot.microsoft.com
 cp601.prod.do.dsp.mp.microsoft.com

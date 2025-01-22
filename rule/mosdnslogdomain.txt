@@ -10,6 +10,7 @@ dl.delivery.mp.microsoft.com
 ecs.office.com
 edge.microsoft.com
 extshort.weixin.qq.com
+fd.api.iris.microsoft.com
 fe3cr.delivery.mp.microsoft.com
 geo.prod.do.dsp.mp.microsoft.com
 ispip.clang.cn

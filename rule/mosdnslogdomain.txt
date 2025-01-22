@@ -1,4 +1,5 @@
 
 flowcontroll.dcdn.sandai.net
+game.sec.miui.com
 geover.prod.do.dsp.mp.microsoft.com
 short.weixin.qq.com

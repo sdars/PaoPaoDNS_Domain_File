@@ -3,6 +3,7 @@
 assets.msn.cn
 broadcast.chat.bilibili.com
 cdn.storeedgefd.dsx.mp.microsoft.com
+cm.bilibili.com
 copilot.microsoft.com
 cp601.prod.do.dsp.mp.microsoft.com
 displaycatalog.mp.microsoft.com
@@ -15,8 +16,10 @@ fe3cr.delivery.mp.microsoft.com
 geo.prod.do.dsp.mp.microsoft.com
 ispip.clang.cn
 long.weixin.qq.com
+mall.bilibili.com
 minorshort.weixin.qq.com
 my.microsoftpersonalcontent.com
+rot-dispatch-shcp-link.ztehome.com.cn
 s.cn.bing.net
 slscr.update.microsoft.com
 storeedgefd.dsx.mp.microsoft.com

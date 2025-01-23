@@ -43,6 +43,7 @@ ib.snssdk.com
 icosa-service-cn.allawntech.com
 id6.me
 i-lq.snssdk.com
+i.magazine.heytapmobi.com
 im-open.douyin.com
 im-x.jd.com
 irus.coloros.com
@@ -61,6 +62,7 @@ msv6.wosms.cn
 obus-cn.dc.heytapmobi.com
 obus-dc2007-cn.heytapmobi.com
 obus-dc20157-cn.heytapmobi.com
+obus-dctech-cn.heytapmobi.com
 opex-service-cn.allawntech.com
 p26-tt.byteimg.com
 p3-novel.byteimg.com

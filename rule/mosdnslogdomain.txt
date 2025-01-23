@@ -33,6 +33,7 @@ continuum.dds.microsoft.com
 c-snake.oppomobile.com
 data.bilibili.com
 dataflow.biliapi.com
+data.sms.heytapmobi.com
 dc-dragate-cn.heytapmobi.com
 dig.bdurl.net
 dns.weixin.qq.com.cn

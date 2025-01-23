@@ -55,6 +55,7 @@ irus.coloros.com
 is.snssdk.com
 iwisdom.apps.coloros.com
 lf18-webcast-cdn-tos-ncdn.bytegecko.com
+lf91-webcast-cdn-tos-ncdn.bytegecko.com
 lf9-cdn-tos-ncdn.bytegecko.com
 log5-applog-lq.novelfm.com
 mgw.mpaas.cn-hangzhou.aliyuncs.com

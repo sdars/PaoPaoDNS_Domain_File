@@ -22,6 +22,7 @@ aps.amap.com
 b1-data.ads.heytapmobi.com
 breeno.apps.coloros.com
 c3.gdt.qq.com
+cc-magezine-img.heytapimage.com
 cgicol.amap.com
 channel-acs.m.taobao.com
 cl-data.ads.heytapmobi.com
@@ -64,6 +65,8 @@ lf18-webcast-cdn-tos-ncdn.bytegecko.com
 lf91-webcast-cdn-tos-ncdn.bytegecko.com
 lf9-cdn-tos-ncdn.bytegecko.com
 log5-applog-lq.novelfm.com
+magzineimg2.nearme.com.cn
+magzineimg.nearme.com.cn
 mgw.mpaas.cn-hangzhou.aliyuncs.com
 mime.baidu.com
 mon11-misc-lq.novelfm.com
@@ -79,6 +82,7 @@ obus-dc2007-cn.heytapmobi.com
 obus-dc20157-cn.heytapmobi.com
 obus-dctech-cn.heytapmobi.com
 openapi.finance.qq.com
+openfs.oppomobile.com
 opex-service-cn.allawntech.com
 p26-tt.byteimg.com
 p3-novel.byteimg.com

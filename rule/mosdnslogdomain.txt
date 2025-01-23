@@ -19,6 +19,8 @@ cloudauth.aliyuncs.com
 conn-service-cn-03.allawntech.com
 continuum.dds.microsoft.com
 c-snake.oppomobile.com
+data.bilibili.com
+dataflow.biliapi.com
 dig.bdurl.net
 dns.weixin.qq.com.cn
 finderqv.video.qq.com
@@ -28,6 +30,7 @@ game.sec.miui.com
 geover.prod.do.dsp.mp.microsoft.com
 gimg3.baidu.com
 gimg4.baidu.com
+i1.hdslb.com
 ib.snssdk.com
 icosa-service-cn.allawntech.com
 im-open.douyin.com

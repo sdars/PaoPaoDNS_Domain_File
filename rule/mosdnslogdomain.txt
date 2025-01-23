@@ -15,6 +15,7 @@ apisnd.heytapmobi.com
 app-measurement.com
 aps.amap.com
 b1-data.ads.heytapmobi.com
+breeno.apps.coloros.com
 c3.gdt.qq.com
 cgicol.amap.com
 cl-data.ads.heytapmobi.com
@@ -30,6 +31,8 @@ finderqv.video.qq.com
 flowcontroll.dcdn.sandai.net
 frontier.snssdk.com
 game.sec.miui.com
+gaoneng.bilibili.com
+g.cn.miaozhen.com
 gecko5-lq.zijieapi.com
 geover.prod.do.dsp.mp.microsoft.com
 gimg3.baidu.com
@@ -58,6 +61,7 @@ msv6.wosms.cn
 obus-cn.dc.heytapmobi.com
 obus-dc2007-cn.heytapmobi.com
 obus-dc20157-cn.heytapmobi.com
+opex-service-cn.allawntech.com
 p26-tt.byteimg.com
 p3-novel.byteimg.com
 p3-novelfm-sign.novelfmpic.com
@@ -323,6 +327,8 @@ px.effirst.com
 rdelivery.qq.com
 rusfs.coloros.com
 rusfsg.coloros.com
+s2.hdslb.com
+sau-server-cn.allawntech.com
 saveu5-normal-lq.zijieapi.com
 settings.ttwebview.com
 sf3-fe-tos.pglstatp-toutiao.com

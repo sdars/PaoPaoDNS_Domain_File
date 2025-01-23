@@ -14,6 +14,7 @@ api-access.pangolin-sdk-toutiao1.com
 api-access.pangolin-sdk-toutiao.com
 api-cn.cdo.heytapmobi.com
 apisnd.heytapmobi.com
+appconf-ocs.heytapdownload.com
 app-measurement.com
 aps.amap.com
 b1-data.ads.heytapmobi.com
@@ -29,6 +30,7 @@ data.bilibili.com
 dataflow.biliapi.com
 dig.bdurl.net
 dns.weixin.qq.com.cn
+eap-log-cn.allawntech.com
 ecom5-normal-lq.ecombdapi.com
 finderqv.video.qq.com
 flowcontroll.dcdn.sandai.net

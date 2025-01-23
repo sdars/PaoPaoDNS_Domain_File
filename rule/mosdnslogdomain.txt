@@ -361,6 +361,7 @@ sf3-fe-tos.pglstatp-toutiao.com
 short.weixin.qq.com
 sis-ipv6.jpush.cn
 sis.jpush.io
+smartcard.apps.coloros.com
 t13.baidu.com
 t14.baidu.com
 t15.baidu.com

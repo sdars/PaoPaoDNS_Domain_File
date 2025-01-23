@@ -6,6 +6,7 @@ flowcontroll.dcdn.sandai.net
 game.sec.miui.com
 geover.prod.do.dsp.mp.microsoft.com
 icosa-service-cn.allawntech.com
+rusfsg.coloros.com
 short.weixin.qq.com
 webcast26-core-c-lq.amemv.com
 webcast26-normal-c-lq.amemv.com

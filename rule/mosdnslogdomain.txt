@@ -343,6 +343,7 @@ rusfsg.coloros.com
 s2.hdslb.com
 sau-server-cn.allawntech.com
 saveu5-normal-lq.zijieapi.com
+sceneservice-model.coloros.com
 servicegw.ly.com
 settings.ttwebview.com
 sf3-fe-tos.pglstatp-toutiao.com

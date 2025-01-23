@@ -72,6 +72,7 @@ mssdk5-normal-lq.zijieapi.com
 mssdk.volces.com
 msv6.wosms.cn
 obus-cn.dc.heytapmobi.com
+obus-dc20058-cn.heytapmobi.com
 obus-dc2007-cn.heytapmobi.com
 obus-dc20157-cn.heytapmobi.com
 obus-dctech-cn.heytapmobi.com

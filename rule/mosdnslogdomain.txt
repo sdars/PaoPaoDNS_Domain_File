@@ -356,6 +356,7 @@ tcmobileapi.17usoft.com
 timon.zijieapi.com
 tnc0-aliec2.zijieapi.com
 toblog.ctobsnssdk.com
+uc-client-cn.heytapmobi.com
 ulogs.umeng.com
 v2mi.gdt.qq.com
 v3.gdt.qq.com

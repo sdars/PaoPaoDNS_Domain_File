@@ -1,5 +1,6 @@
 
 analytics.map.qq.com
+apd-pcdnwxlogin.teg.tencent-cloud.net
 apd-pcdnwxnat.teg.tencent-cloud.net
 apd-pcdnwxstat.teg.tencent-cloud.net
 api3-lq.novelfm.com
@@ -36,6 +37,7 @@ log5-applog-lq.novelfm.com
 mgw.mpaas.cn-hangzhou.aliyuncs.com
 mime.baidu.com
 mssdk.volces.com
+msv6.wosms.cn
 obus-dc2007-cn.heytapmobi.com
 obus-dc20157-cn.heytapmobi.com
 p3-novelfm-sign.novelfmpic.com
@@ -47,6 +49,8 @@ rdelivery.qq.com
 rusfsg.coloros.com
 sf3-fe-tos.pglstatp-toutiao.com
 short.weixin.qq.com
+sis-ipv6.jpush.cn
+sis.jpush.io
 t13.baidu.com
 t14.baidu.com
 t15.baidu.com

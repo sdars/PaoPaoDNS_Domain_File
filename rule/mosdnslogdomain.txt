@@ -1,4 +1,5 @@
 
+analytics.map.qq.com
 apd-pcdnwxnat.teg.tencent-cloud.net
 apd-pcdnwxstat.teg.tencent-cloud.net
 api3-lq.novelfm.com
@@ -42,7 +43,9 @@ p6-novelfm-sign.novelfmpic.com
 p9-novelfm-sign.novelfmpic.com
 pitaya.bytedance.com
 px.effirst.com
+rdelivery.qq.com
 rusfsg.coloros.com
+sf3-fe-tos.pglstatp-toutiao.com
 short.weixin.qq.com
 t13.baidu.com
 t14.baidu.com
@@ -51,6 +54,7 @@ t7.baidu.com
 t8.baidu.com
 tnc0-aliec2.zijieapi.com
 toblog.ctobsnssdk.com
+ulogs.umeng.com
 v2mi.gdt.qq.com
 v3.gdt.qq.com
 webcast26-core-c-lq.amemv.com
@@ -59,4 +63,5 @@ webcast5-open-lq.douyin.com
 weixin.qq.com
 wvcfg.alicdn.com
 www.bytedance.com
+xpis-tel-xcdn.youku.com
 zres.alicdn.com

@@ -23,6 +23,7 @@ b1-data.ads.heytapmobi.com
 breeno.apps.coloros.com
 c3.gdt.qq.com
 cgicol.amap.com
+channel-acs.m.taobao.com
 cl-data.ads.heytapmobi.com
 cloudauth.aliyuncs.com
 cloudkit-api-cn.ocloud.heytapmobi.com

@@ -41,6 +41,8 @@ icosa-service-cn.allawntech.com
 id6.me
 i-lq.snssdk.com
 im-open.douyin.com
+im-x.jd.com
+irus.coloros.com
 is.snssdk.com
 iwisdom.apps.coloros.com
 lf18-webcast-cdn-tos-ncdn.bytegecko.com
@@ -53,6 +55,7 @@ msgacs.m.taobao.com
 mssdk5-normal-lq.zijieapi.com
 mssdk.volces.com
 msv6.wosms.cn
+obus-cn.dc.heytapmobi.com
 obus-dc2007-cn.heytapmobi.com
 obus-dc20157-cn.heytapmobi.com
 p26-tt.byteimg.com
@@ -318,6 +321,7 @@ pull-tsl-vr-l6.douyincdn.com
 pull-vr-l3.douyincdn.com
 px.effirst.com
 rdelivery.qq.com
+rusfs.coloros.com
 rusfsg.coloros.com
 saveu5-normal-lq.zijieapi.com
 settings.ttwebview.com

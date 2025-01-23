@@ -2,6 +2,7 @@
 abtest5-misc-lq.zijieapi.com
 accountprod.alipay.com
 ads5-normal-lq.zijieapi.com
+aloc-control-plus.amap.com
 amdc.m.taobao.com
 analytics.map.qq.com
 apd-pcdnwxlogin.teg.tencent-cloud.net

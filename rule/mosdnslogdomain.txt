@@ -25,6 +25,7 @@ c3.gdt.qq.com
 cgicol.amap.com
 cl-data.ads.heytapmobi.com
 cloudauth.aliyuncs.com
+cloudkit-api-cn.ocloud.heytapmobi.com
 conn-service-cn-03.allawntech.com
 continuum.dds.microsoft.com
 c-snake.oppomobile.com
@@ -36,6 +37,7 @@ eap-log-cn.allawntech.com
 ecom5-normal-lq.ecombdapi.com
 finderqv.video.qq.com
 flowcontroll.dcdn.sandai.net
+fourier-videoclip-cn.allawntech.com
 frontier.snssdk.com
 game.sec.miui.com
 gaoneng.bilibili.com

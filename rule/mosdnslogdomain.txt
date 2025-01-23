@@ -366,6 +366,7 @@ v3.gdt.qq.com
 vc-brain.ndcpp.com
 vc-mirror.ndcpp.com
 vcs.zijieapi.com
+weather-server-gl.allawntech.com
 webcast26-core-c-lq.amemv.com
 webcast26-normal-c-lq.amemv.com
 webcast5-open-lq.douyin.com

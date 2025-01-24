@@ -364,11 +364,13 @@ sceneservice-model.coloros.com
 servicegw.ly.com
 settings.ttwebview.com
 sf3-fe-tos.pglstatp-toutiao.com
+short.pay.weixin.qq.com
 short.weixin.qq.com
 sis-ipv6.jpush.cn
 sis.jpush.io
 smartcard.apps.coloros.com
 szlong.weixin.qq.com
+szshort.pay.weixin.qq.com
 t13.baidu.com
 t14.baidu.com
 t15.baidu.com
@@ -379,6 +381,7 @@ timon.zijieapi.com
 tnc0-aliec2.zijieapi.com
 toblog.ctobsnssdk.com
 uc-client-cn.heytapmobi.com
+uc-client-gl.oneplus.com
 ulogs.umeng.com
 v2mi.gdt.qq.com
 v3.gdt.qq.com

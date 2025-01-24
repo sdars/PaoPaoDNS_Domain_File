@@ -15,6 +15,7 @@ api5-sinfonlinea.novelfm.com
 api-access.pangolin-sdk-toutiao1.com
 api-access.pangolin-sdk-toutiao.com
 api-cn.cdo.heytapmobi.com
+api-cn.theme.heytapmobi.com
 apisnd.heytapmobi.com
 appconf-ocs.heytapdownload.com
 app-measurement.com
@@ -77,6 +78,8 @@ msgacs.m.taobao.com
 mssdk5-normal-lq.zijieapi.com
 mssdk.volces.com
 msv6.wosms.cn
+newds-api-cn-01.allawntech.com
+newds-api-cn-02.allawntech.com
 obus-cn.dc.heytapmobi.com
 obus-dc20058-cn.heytapmobi.com
 obus-dc2007-cn.heytapmobi.com

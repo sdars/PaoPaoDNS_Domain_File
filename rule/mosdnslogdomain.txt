@@ -368,6 +368,7 @@ short.weixin.qq.com
 sis-ipv6.jpush.cn
 sis.jpush.io
 smartcard.apps.coloros.com
+szlong.weixin.qq.com
 t13.baidu.com
 t14.baidu.com
 t15.baidu.com

@@ -389,6 +389,7 @@ webcast5-open-lq.douyin.com
 weixin.qq.com
 wvcfg.alicdn.com
 www.bytedance.com
+www.google.cn
 wzqcf.gtimg.com
 wzq.tenpay.com
 xpis-tel-xcdn.youku.com

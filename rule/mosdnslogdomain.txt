@@ -20,6 +20,7 @@ apisnd.heytapmobi.com
 appconf-ocs.heytapdownload.com
 app-measurement.com
 aps.amap.com
+au.download.windowsupdate.com
 b1-data.ads.heytapmobi.com
 breeno.apps.coloros.com
 c3.gdt.qq.com

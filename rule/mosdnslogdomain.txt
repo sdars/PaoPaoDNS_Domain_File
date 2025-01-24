@@ -17,7 +17,15 @@ api-access.pangolin-sdk-toutiao1.com
 api-access.pangolin-sdk-toutiao.com
 api-cn.cdo.heytapmobi.com
 api-cn.theme.heytapmobi.com
+api-p0.yksdks.com
+api-p1.mobsurl.com
+api-p2.mobsurl.com
+api-p3.mobsurl.com
+api-p3.yksdks.com
+api-p4.mobsurl.com
+api-p4.yksdks.com
 apisnd.heytapmobi.com
+api.xiaoheihe.cn
 appconf-ocs.heytapdownload.com
 app-measurement.com
 appstore-gw-sh.ztehome.com.cn
@@ -27,6 +35,7 @@ b1-data.ads.heytapmobi.com
 breeno.apps.coloros.com
 c3.gdt.qq.com
 cc-magezine-img.heytapimage.com
+cdn.max-c.com
 cgicol.amap.com
 channel-acs.m.taobao.com
 cl-data.ads.heytapmobi.com
@@ -38,6 +47,7 @@ c-snake.oppomobile.com
 data.bilibili.com
 dataflow.biliapi.com
 data.sms.heytapmobi.com
+data.xiaoheihe.cn
 dc-dragate-cn.heytapmobi.com
 dig.bdurl.net
 dns.weixin.qq.com.cn
@@ -61,6 +71,8 @@ icosa-service-cn.allawntech.com
 id6.me
 i-lq.snssdk.com
 i.magazine.heytapmobi.com
+imgheybox1.max-c.com
+imgheybox.max-c.com
 im-open.douyin.com
 im-x.jd.com
 irus.coloros.com
@@ -69,12 +81,14 @@ iwisdom.apps.coloros.com
 lf18-webcast-cdn-tos-ncdn.bytegecko.com
 lf91-webcast-cdn-tos-ncdn.bytegecko.com
 lf9-cdn-tos-ncdn.bytegecko.com
+license.vod2.myqcloud.com
 log5-applog-lq.novelfm.com
 magzineimg2.nearme.com.cn
 magzineimg.nearme.com.cn
 mgw.mpaas.cn-hangzhou.aliyuncs.com
 mime.baidu.com
 mon11-misc-lq.novelfm.com
+monitor.xiaoheihe.cn
 mon.snssdk.com
 mon.zijieapi.com
 msgacs.m.taobao.com
@@ -393,7 +407,9 @@ weather-server-gl.allawntech.com
 webcast26-core-c-lq.amemv.com
 webcast26-normal-c-lq.amemv.com
 webcast5-open-lq.douyin.com
+web.xiaoheihe.cn
 weixin.qq.com
+ws.xiaoheihe.cn
 wvcfg.alicdn.com
 www.bytedance.com
 www.google.cn

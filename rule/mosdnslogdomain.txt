@@ -354,6 +354,7 @@ pull-tsl-vr-l6.douyincdn.com
 pull-vr-l3.douyincdn.com
 px.effirst.com
 rdelivery.qq.com
+rot-dispatch-sh.ztehome.com.cn
 rusfs.coloros.com
 rusfsg.coloros.com
 s2.hdslb.com

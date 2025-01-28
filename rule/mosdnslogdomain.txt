@@ -81,6 +81,7 @@ doc.t.pt.miui.com
 eap-log-cn.allawntech.com
 earphone.update.intl.miui.com
 ecom5-normal-lq.ecombdapi.com
+en.miui.com
 en.pt.intl.miui.com
 feat-tb-80kor.cms.ci.t.pt.miui.com
 feedback.india.miui.com
@@ -114,6 +115,7 @@ imgheybox1.max-c.com
 imgheybox.max-c.com
 im-open.douyin.com
 im-x.jd.com
+ind-fm.api.intl.miui.com
 ind-push.api.intl.miui.com
 in-gamecenter.api.intl.miui.com
 irus.coloros.com
@@ -136,6 +138,7 @@ metok.sys.miui.com
 mgw.mpaas.cn-hangzhou.aliyuncs.com
 mime.baidu.com
 mitv.tracking.india.miui.com
+mitv.tracking.rus.miui.com
 miui-l7-data-other-c4.pt.miui.com
 miui-l7-lan.pt.miui.com
 mon11-misc-lq.novelfm.com

@@ -1,5 +1,6 @@
 
 abtest5-misc-lq.zijieapi.com
+accessibility.miui.com
 accountprod.alipay.com
 admin.browser.miui.com
 ads5-normal-lq.zijieapi.com
@@ -465,6 +466,7 @@ sgp-howl.api.intl.miui.com
 shepherd.ff.avast.sec.miui.com
 short.pay.weixin.qq.com
 short.weixin.qq.com
+sh.servicewechat.com
 sis-ipv6.jpush.cn
 sis.jpush.io
 smartcard.apps.coloros.com

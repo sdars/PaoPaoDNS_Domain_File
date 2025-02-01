@@ -1,0 +1,7 @@
+conn-service-cn-04.allawntech.com
+conn-service-cn-05.allawntech.com
+dataflow.biliapi.com
+self.events.data.microsoft.com
+updates.ghub.logitechg.com.cn
+www.google.cn
+www.zte.com.cn

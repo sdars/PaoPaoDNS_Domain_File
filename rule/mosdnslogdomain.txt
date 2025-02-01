@@ -1,7 +1,15 @@
+3.datadog.pool.ntp.org
+apd-pcdnwxlogin.teg.tencent-cloud.net
+apd-pcdnwxnat.teg.tencent-cloud.net
+apd-pcdnwxstat.teg.tencent-cloud.net
+client.wns.windows.com
 conn-service-cn-04.allawntech.com
 conn-service-cn-05.allawntech.com
 dataflow.biliapi.com
+ecs.office.com
 self.events.data.microsoft.com
+ulogs.umengcloud.com
+ulogs.umeng.com
 updates.ghub.logitechg.com.cn
 www.google.cn
 www.zte.com.cn
